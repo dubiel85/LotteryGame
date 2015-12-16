@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-color: forestgreen;
+}
+
+.size-locked {
+    width: 130px;
+}
